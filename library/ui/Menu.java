@@ -13,7 +13,7 @@ import library.util.Outputter;
 public class Menu
 {
 	private final String MENU_HEADER = "**************  M E N U  **************";
-	private final String WELCOME_STRING = "WELCOME TO LIBRARY SYSTEM (D09119158 Wenzheng Liang)";
+	private final String WELCOME_STRING = "WELCOME TO LIBRARY SYSTEM (communicated@yeah.net)";
 	private enum Option
 	{
 		EXIT, // 0
