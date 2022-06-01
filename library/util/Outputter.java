@@ -71,10 +71,12 @@ public class Outputter
 		Outputter.println();
 		println(array[0].getHeader());
 		printNChar('-', NUMBER_OF_SEPARATOR);
+		Outputter.println();
 		for(ArrayOutputter ao : array)
 		{
 			println(ao.getString());
 		}
 		printNChar('-', NUMBER_OF_SEPARATOR);
+		Outputter.println();
 	}
 }
