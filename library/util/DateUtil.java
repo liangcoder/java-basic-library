@@ -6,7 +6,7 @@ import java.util.Date;
 /**
  * This class is used to format the data type.
  * 
- * @author Wenzheng Liang
+ * @author communicated@yeah.net
  * @version 29 Nov 2009
  * @since 1.6
  * 

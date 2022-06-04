@@ -6,7 +6,7 @@ package library.entity;
  * The basic information of a periodical includes:
  * title, author, publication date, periodical name, pages range
  * 
- * @author Wenzheng Liang
+ * @author communicated@yeah.net
  * @version 29 Nov 2009
  * @since 1.6
  * @see Item

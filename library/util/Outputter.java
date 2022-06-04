@@ -4,7 +4,7 @@ package library.util;
  * The util class Outputter is responsible for outputting message and array info.
  * 
  * @see ArrayOutputter
- * @author Wenzheng Liang
+ * @author communicated@yeah.net
  * @version 29 Nov 2009
  * @since 1.6
  *

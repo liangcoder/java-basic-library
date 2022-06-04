@@ -5,7 +5,7 @@ import library.util.Outputter;
 /**
  * The Class Menu represents the menu of the system.
  * 
- * @author Wenzheng Liang
+ * @author communicated@yeah.net
  * @version 29 Nov 2009
  * @since 1.6
  *

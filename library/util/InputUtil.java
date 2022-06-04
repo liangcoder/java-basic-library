@@ -7,7 +7,7 @@ import java.io.InputStreamReader;
 /**
  * Class InputUtil is a helper class for capturing input from user.
  * 
- * @author Wenzheng Liang
+ * @author communicated@yeah.net
  * @version 29 Nov 2009
  * @since 1.6
  *

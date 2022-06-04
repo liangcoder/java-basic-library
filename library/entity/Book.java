@@ -5,7 +5,7 @@ package library.entity;
  * the library. The basic information of a book includes: title, author,
  * publication date, publisher name, edition.
  * 
- * @author Wenzheng Liang
+ * @author communicated@yeah.net
  * @version 29 Nov 2009
  * @since 1.6
  * @see Item

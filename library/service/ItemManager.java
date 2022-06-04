@@ -12,7 +12,7 @@ import library.exception.ItemManagementException;
  * Class ItemManager provides management functionality for items of the library.
  * 
  * @see Item
- * @author Wenzheng Liang
+ * @author communicated@yeah.net
  * @version 29 Nov 2009
  * @since 1.6
  * 

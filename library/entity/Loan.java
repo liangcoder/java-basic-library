@@ -7,7 +7,7 @@ import java.util.Date;
  * The basic information of a loan includes:
  * user, item associating with the user and date of check out.
  * 
- * @author Wenzheng Liang
+ * @author communicated@yeah.net
  * @version 29 Nov 2009
  * @since 1.6
  *

@@ -9,7 +9,7 @@ import library.util.Outputter;
  * This factory is used to create item of library. This class applies Singleton
  * Pattern to make sure there will be only one instance of Class.
  * 
- * @author Wenzheng Liang
+ * @author communicated@yeah.net
  * @version 29 Nov 2009
  * @since 1.6
  * 

@@ -18,7 +18,7 @@ import library.util.RecordGenerator;
 /**
  * The main program of library application.
  * 
- * @author Wenzheng Liang
+ * @author communicated@yeah.net
  * @version 29 Nov 2009
  * @since 1.6
  * 

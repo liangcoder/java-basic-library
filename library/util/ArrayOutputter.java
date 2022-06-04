@@ -4,7 +4,7 @@ package library.util;
  * This interface is used to define operations of class which need to be
  * output as a list.
  * 
- * @author Wenzheng Liang
+ * @author communicated@yeah.net
  * @version 29 Nov 2009
  * @since 1.6
  * @see Outputter
