@@ -5,7 +5,7 @@ package library.entity;
  * item in the library. The basic information of Dvd includes: artist, title,
  * publication date, genre
  * 
- * @author Wenzheng Liang
+ * @author communicated@yeah.net
  * @version 29 Nov 2009
  * @since 1.6
  * @see Item

@@ -12,7 +12,7 @@ import library.util.Outputter;
  * This class represents the user of the library. The basic information of a
  * user includes: library id, name, address
  * 
- * @author Wenzheng Liang
+ * @author communicated@yeah.net
  * @version 29 Nov 2009
  * @since 1.6
  * @see ArrayOutputter

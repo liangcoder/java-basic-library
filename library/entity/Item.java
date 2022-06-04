@@ -17,7 +17,7 @@ import library.util.DateUtil;
  * The basic information of an item includes: Library code, type, title, author,
  * publicationDate, available
  * 
- * @author Wenzheng Liang
+ * @author communicated@yeah.net
  * @version 29 Nov 2009
  * @since 1.6
  * @see ArrayOutputter

@@ -10,7 +10,7 @@ import library.exception.UserManagementException;
  * Class UserManager provides management functionality for users of the library.
  * 
  * @see User
- * @author Wenzheng Liang
+ * @author communicated@yeah.net
  * @version 29 Nov 2009
  * @since 1.6
  * 

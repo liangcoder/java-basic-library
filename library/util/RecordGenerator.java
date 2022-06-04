@@ -16,7 +16,7 @@ import library.entity.User;
  * data for library application.
  * The initial data includes users and items with random number.
  * 
- * @author Wenzheng Liang
+ * @author communicated@yeah.net
  * @version 3.0, 29/11/2009
  * @since 1.6
  */

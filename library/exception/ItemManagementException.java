@@ -5,7 +5,7 @@ package library.exception;
  * management functionality cannot be accomplished normally. 
  * Such as the code of item doesn't exist.
  * 
- * @author Wenzheng Liang
+ * @author communicated@yeah.net
  * @version 29 Nov 2009
  * @since 1.6
  *
